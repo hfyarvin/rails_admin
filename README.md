@@ -23,6 +23,18 @@ Things you may want to cover:
 
 * ...
 
+* heroku version
+
+* heroku login
+
+* heroku keys:add
+
+* heroku create
+
+* heroku create app_name
+
+* git push heroku master
+
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
